@@ -8,7 +8,8 @@ Click on the link to see my flashcard generator aplication
 
 
 
-# Run locally
+# Run locally![flashcard-generator](https://github.com/dhruvv9/flashcard-generator-application/assets/119520814/76563993-0aa2-4c48-8292-116ef841f934)
+
   clone the project here
 
 https://github.com/dhruvv9/flashcard-generator-application.git
